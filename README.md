@@ -1,3 +1,3 @@
 # Hello
 
-[jackwarren.info](https://jackwarren.info).
+[jackwarren.info](https://jackwarren.info)
